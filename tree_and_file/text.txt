@@ -1,0 +1,1 @@
+In electronics engineering and computer Engineering, computer architecture is a set of disciplines that describes A computer system by specifying its parts and their relations. For example, at a high level, computer architecture may be concerned with how the central processing unit acts and how it uses computer memory. Computer architects use computers to design new computers.
